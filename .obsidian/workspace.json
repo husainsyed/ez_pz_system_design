@@ -11,9 +11,21 @@
             "id": "a644fd22ef57969a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "1. Scaling/assets/Pasted image 20260405175859.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260405175859"
+            }
+          },
+          {
+            "id": "7737e14b568a4510",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scaling/1. Single server setup.md",
+                "file": "1. Scaling/1. Single server setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,18 +35,22 @@
             }
           },
           {
-            "id": "1964aea2f3add6f4",
+            "id": "70bb7fdd067bd7bc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2. Scaling/Drawing 2026-04-05 16.54.35.excalidraw.md"
+                "file": "1. Scaling/2. Load Balancing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-05 16.54.35.excalidraw"
+              "icon": "lucide-file",
+              "title": "2. Load Balancing"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,11 +192,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a644fd22ef57969a",
+  "active": "70bb7fdd067bd7bc",
   "lastOpenFiles": [
-    "Pasted image 20260405172442.png",
-    "2. Scaling/Drawing 2026-04-05 16.54.35.excalidraw.md",
-    "2. Scaling/1. Single server setup.md",
+    "1. Scaling/1. Single server setup.md",
+    "1. Scaling/2. Load Balancing.md",
+    "1. Scaling/Excali Canvas.md",
+    "1. Scaling/assets/Pasted image 20260405181730.png",
+    "1. Scaling/assets/Pasted image 20260405175859.png",
+    "1. Scaling/assets/Pasted image 20260405172442.png",
+    "Pasted image 20260405181703.png",
+    "1. Scaling/assets",
     "it-icons.excalidrawlib",
     "aws-architecture-icons.excalidrawlib",
     "software-architecture.excalidrawlib",
@@ -190,7 +211,7 @@
     "architecture-diagram-components.excalidrawlib",
     "excalibrain.md",
     "Excalidraw",
-    "2. Scaling",
+    "1. Scaling",
     "0. Foreword/assets/Pasted image 20260405162732.png",
     "0. Foreword/assets",
     "Pasted image 20260405162636.png",
@@ -200,10 +221,8 @@
     "Design Job Scheduler/Images/Pasted image 20260217022521.png",
     "Design Job Scheduler/Notes.md",
     "Design Job Scheduler/Images",
-    "Design Job Scheduler",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Design Job Scheduler/Images/Pasted image 20260217013100.png",
     "Design Uber/Images/Drawing 2026-02-19 08.40.11.excalidraw.md",
     "Welcome.md",
     "1. problems to do.md"

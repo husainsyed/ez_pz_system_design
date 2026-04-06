@@ -1,0 +1,9 @@
+.canvas-node-content.media-embed {
+    align-items: unset!important;
+}
+
+.canvas-node-content.media-embed img {
+    object-fit: fill!important;
+    width: 100%!important;
+    height: 100%!important;
+}

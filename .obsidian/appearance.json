@@ -2,5 +2,8 @@
   "cssTheme": "Dawn",
   "accentColor": "#73c99d",
   "theme": "obsidian",
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "canvas-fix"
+  ]
 }
