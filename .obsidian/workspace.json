@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "a0482517966bda80",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc36040cb2d0fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a644fd22ef57969a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Scaling/1. Single server setup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Single server setup"
+            }
+          },
+          {
+            "id": "1964aea2f3add6f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2. Scaling/Drawing 2026-04-05 16.54.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-05 16.54.35.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75a750984a26a2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "574fedf670534c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d25178728a33583",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "928d6cecf5645032",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f09c4c5239e53b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "97cfea66ed804ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d37cfd29dff5767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d32c89b2039b8aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6da22c2b5429e673",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64b327c0331b9dfd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bf04331f77a454a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. problems to do.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. problems to do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a644fd22ef57969a",
+  "lastOpenFiles": [
+    "Pasted image 20260405172442.png",
+    "2. Scaling/Drawing 2026-04-05 16.54.35.excalidraw.md",
+    "2. Scaling/1. Single server setup.md",
+    "it-icons.excalidrawlib",
+    "aws-architecture-icons.excalidrawlib",
+    "software-architecture.excalidrawlib",
+    "0. Foreword/System Design Intro.md",
+    "Design Uber/Images/Pasted image 20260219085400.png",
+    "Design Uber/Notes.md",
+    "architecture-diagram-components.excalidrawlib",
+    "excalibrain.md",
+    "Excalidraw",
+    "2. Scaling",
+    "0. Foreword/assets/Pasted image 20260405162732.png",
+    "0. Foreword/assets",
+    "Pasted image 20260405162636.png",
+    "Design Job Scheduler/Images/Pasted image 20260217032113.png",
+    "0. Foreword",
+    "Design Job Scheduler/Images/Pasted image 20260217031303.png",
+    "Design Job Scheduler/Images/Pasted image 20260217022521.png",
+    "Design Job Scheduler/Notes.md",
+    "Design Job Scheduler/Images",
+    "Design Job Scheduler",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Design Job Scheduler/Images/Pasted image 20260217013100.png",
+    "Design Uber/Images/Drawing 2026-02-19 08.40.11.excalidraw.md",
+    "Welcome.md",
+    "1. problems to do.md"
+  ]
+}
